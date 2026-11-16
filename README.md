@@ -16,9 +16,9 @@ A proposed physical-wake or substrate mechanism motivates the test, but no quant
 
 The author has supplied the following Zenodo publication record for this project:
 
-**[Zenodo record 24275576](https://zenodo.org/records/24275576)**
+**[Zenodo research publication](https://zenodo.org/records/24275576)** — DOI: **[10.5281/zenodo.24275575](https://doi.org/10.5281/zenodo.24275575)**
 
-For the authoritative DOI, title and publication metadata, consult that Zenodo record. Its page was not independently retrievable at the time this repository link was added. The repository remains a living project and may develop beyond the archived manuscript.
+DOI supplied by the author. For an exact-version citation, consult the Zenodo record's citation panel; Zenodo distinguishes version-specific DOIs from a DOI covering all versions. The repository remains a living project and may develop beyond the archived manuscript.
 
 ## Read the proposal
 
