@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite this experimental proposal and credit Tonino Schafer for the originating concept."
+title: "A Co-Rotating Young Double-Slit Apparatus for Testing Motion-Dependent Interference Visibility"
+authors:
+  - family-names: Schafer
+    given-names: Tonino
+preferred-citation:
+  type: report
+  title: "A Co-Rotating Young Double-Slit Apparatus for Testing Motion-Dependent Interference Visibility"
+  authors:
+    - family-names: Schafer
+      given-names: Tonino
+  year: 2026
