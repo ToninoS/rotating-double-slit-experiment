@@ -12,7 +12,7 @@ A co-rotating optical apparatus is proposed in which the illumination source, Yo
 
 ## Archived record
 
-A corresponding Zenodo record was provided by the author: https://zenodo.org/records/24275576 . For an authoritative publication citation or DOI, check the Zenodo record metadata directly. This GitHub manuscript is editable and may change independently of the archived PDFs.
+A corresponding Zenodo record and DOI were provided by the author: https://zenodo.org/records/24275576 and https://doi.org/10.5281/zenodo.24275575 . For a version-specific citation, check the Zenodo record's citation panel directly. This GitHub manuscript is editable and may change independently of the archived PDFs.
 
 ## 1. Origins and research question
 
