@@ -1,6 +1,6 @@
 # Experimental protocol — co-rotating double slit
 
-**Concept proposer: Tonino Schafer | 16 November 2026**
+**Concept proposer: Tonino Schäfer | 16 November 2026**
 
 ## Aim
 
