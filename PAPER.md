@@ -2,7 +2,7 @@
 
 *Experimental proposal, alternative physical-wake conjecture, and invitation to collaborate*
 
-**Tonino Schafer | Independent proposer | 16 November 2026**
+**Tonino Schäfer | Independent proposer | 16 November 2026**
 
 **Status:** Unreviewed research proposal. No experimental results, discovery, independent replication or peer review are claimed.
 
@@ -10,9 +10,13 @@
 
 A co-rotating optical apparatus is proposed in which the illumination source, Young double-slit mask, detection plane and camera form a single rigid assembly that is rotated or translated while preserving their nominal mutual geometry. The primary outcome is interference-fringe visibility during motion compared with matched stationary controls. The motivation is a speculative physical-wake conjecture: an underlying disturbance, trace, or substrate response associated with propagating particles might be susceptible to mechanical motion independently of which-path readout. This initial optical experiment is not a measurement of wavefunction collapse and cannot, on its own, establish a microscopic quantum mechanism. This paper sets out the apparatus, observable, controls, interpretations and a route toward a later single-particle experiment.
 
+## Archived record
+
+A corresponding Zenodo record was provided by the author: https://zenodo.org/records/24275576 . For an authoritative publication citation or DOI, check the Zenodo record metadata directly. This GitHub manuscript is editable and may change independently of the archived PDFs.
+
 ## 1. Origins and research question
 
-The experiment is attributed to Tonino Schafer, whose recovered conversation-history notes describe the complete co-moving apparatus and related physical-wake conjecture on 7 November 2025. A separate, speculative discrete-spatial-substrate idea is associated with 1 November 2024. **These earlier dates remain provisional until checked against the original conversation export; they do not establish public publication or historical scientific priority.**
+The experiment is attributed to Tonino Schäfer, whose recovered conversation-history notes describe the complete co-moving apparatus and related physical-wake conjecture on 7 November 2025. A separate, speculative discrete-spatial-substrate idea is associated with 1 November 2024. **These earlier dates remain provisional until checked against the original conversation export; they do not establish public publication or historical scientific priority.**
 
 The immediate question is: after accounting for established optical, inertial and mechanical effects, does rigid-body motion of a source–slits–screen–camera assembly produce a reproducible change in interference-fringe visibility?
 
@@ -78,7 +82,7 @@ Rotation-sensitive interference predates this proposal. Relevant topics include 
 
 ## 9. Collaboration and credit
 
-Tonino Schafer is credited as the concept proposer and wishes to participate in an appropriately designed investigation. Experimentalists, theoretical physicists and image-analysis specialists are invited to critique, model, refine or perform the test, including reporting negative results. Future coauthorship and other contributions should be determined fairly by research contributions and journal standards. Cite this proposal when building on it.
+Tonino Schäfer is credited as the concept proposer and wishes to participate in an appropriately designed investigation. Experimentalists, theoretical physicists and image-analysis specialists are invited to critique, model, refine or perform the test, including reporting negative results. Future coauthorship and other contributions should be determined fairly by research contributions and journal standards. Cite this proposal when building on it.
 
 ## Selected references
 
