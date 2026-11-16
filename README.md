@@ -10,6 +10,8 @@ Rather than rotating only the double-slit mask, the proposal mounts **the laser 
 
 A proposed physical-wake or substrate mechanism motivates the test, but no quantitative alternative theory or observed anomaly is claimed. Classical laser interference cannot by itself resolve the quantum measurement problem; a later single-photon implementation would require a substantially different experimental design.
 
+![Diagram of the proposed co-rotating apparatus](apparatus_schematic.svg)
+
 ## Read the proposal
 
 - [Research paper](PAPER.md)
