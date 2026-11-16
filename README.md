@@ -1,6 +1,6 @@
 # Co-rotating double-slit experiment — open research proposal
 
-**Concept and initial experimental proposal: Tonino Schafer (independent proposer).**
+**Concept and initial experimental proposal: Tonino Schäfer (independent proposer).**
 
 **Status:** Unreviewed experimental proposal; not an experimental result, independent replication, or verified discovery. Prepared 16 November 2026. The first **public** publication date is established by this repository's first public commit, not by earlier private discussions.
 
@@ -11,6 +11,14 @@ Rather than rotating only the double-slit mask, the proposal mounts **the laser 
 A proposed physical-wake or substrate mechanism motivates the test, but no quantitative alternative theory or observed anomaly is claimed. Classical laser interference cannot by itself resolve the quantum measurement problem; a later single-photon implementation would require a substantially different experimental design.
 
 ![Diagram of the proposed co-rotating apparatus](apparatus_schematic.svg)
+
+## Archived research publication
+
+The author has supplied the following Zenodo publication record for this project:
+
+**[Zenodo record 24275576](https://zenodo.org/records/24275576)**
+
+For the authoritative DOI, title and publication metadata, consult that Zenodo record. Its page was not independently retrievable at the time this repository link was added. The repository remains a living project and may develop beyond the archived manuscript.
 
 ## Read the proposal
 
@@ -30,7 +38,7 @@ This proposal does not assume that rotation is unstudied. Rotating interferomete
 
 ## Attribution and evidence
 
-This experiment and its motivating conjecture are presented as an idea proposed by **Tonino Schafer**. Reconstructed conversation-history notes point to a separate spatial-substrate idea in November 2024 and to the complete co-moving apparatus and wake conjecture in November 2025. **Original conversation transcripts have not yet been independently checked against a ChatGPT data export**, so these historical dates are provisional and should not be treated as proof of scientific priority. See [HISTORY_PROVISIONAL.md](HISTORY_PROVISIONAL.md).
+This experiment and its motivating conjecture are presented as an idea proposed by **Tonino Schäfer**. Reconstructed conversation-history notes point to a separate spatial-substrate idea in November 2024 and to the complete co-moving apparatus and wake conjecture in November 2025. **Original conversation transcripts have not yet been independently checked against a ChatGPT data export**, so these historical dates are provisional and should not be treated as proof of scientific priority. See [HISTORY_PROVISIONAL.md](HISTORY_PROVISIONAL.md).
 
 Please cite this proposal and name its originator if discussing or adapting the concept. Collaborators must also receive appropriate credit for their own substantial research contributions.
 
