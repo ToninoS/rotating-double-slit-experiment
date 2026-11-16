@@ -1,6 +1,6 @@
 # Invitation to research collaborators
 
-**Originating concept and initial proposal: Tonino Schafer, independent proposer.**
+**Originating concept and initial proposal: Tonino Schäfer, independent proposer.**
 
 I am seeking an experimental optics or quantum-interference research group interested in assessing and, if justified, performing a controlled version of my proposed **complete co-rotating double-slit experiment**.
 
