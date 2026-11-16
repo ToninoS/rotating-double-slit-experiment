@@ -1,6 +1,6 @@
 # Historical attribution — provisional reconstruction
 
-**Concept proposer: Tonino Schafer**  
+**Concept proposer: Tonino Schäfer**  
 **Document prepared: 16 November 2026**  
 **Evidence status: Reconstructed from conversation-history information, not independently verified against an original ChatGPT export.**
 
@@ -15,6 +15,6 @@ The precise timestamps, original wording and chain of custody must be verified b
 
 **Planned verification:** Obtain original ChatGPT export; preserve unmodified evidence privately; identify relevant conversations with complete surrounding context; redact unrelated personal content; calculate SHA-256 hashes; publish only material the owner chooses to disclose; link to a separately archived record. A cryptographic hash generated in 2026 cannot retroactively verify a 2024 or 2025 message timestamp.
 
-**Proposed citation language:** “Tonino Schafer proposed a co-rotating double-slit test and associated physical-wake conjecture in personal discussions documented provisionally as November 2025; the publicly available research proposal dates from the repository's first public commit.”
+**Proposed citation language:** “Tonino Schäfer proposed a co-rotating double-slit test and associated physical-wake conjecture in personal discussions documented provisionally as November 2025; the publicly available research proposal dates from the repository's first public commit.”
 
 Attribution in this repository identifies a claim by the proposer, not a legal or academic determination of originality.
